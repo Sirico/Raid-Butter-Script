@@ -27,6 +27,11 @@ I created this because I was tired of messing with **fstab** every time I distro
     ```bash
     rpm-ostree install zenity
     ```
+  - On Ublue:  
+    ```bash
+    brew install zenity
+    ```
+
   - On other distros:  
     ```bash
     sudo dnf install zenity
