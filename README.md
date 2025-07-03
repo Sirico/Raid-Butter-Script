@@ -1,4 +1,6 @@
 Btrfs Gaming Pool Generator
+I made this as I was tired of messing with fstab everytime I distrohopped. I run a single sata for my OS and pool nvme drives for storage and gaming and this script follows this design.
+
 Btrfs Gaming Pool Generator is a user-friendly Bash + Zenity script for easily creating and managing a Btrfs-based gaming storage pool on Linux. It guides you through selecting unmounted drives, configuring mount options optimized for gaming, and automatically sets up dedicated folders for Steam, Lutris, and Heroic, with proper Flatpak integration.
 
 Features
