@@ -32,11 +32,11 @@ I created this because I was tired of messing with **fstab** every time I distro
     brew install zenity
     ```
 
-  - On other distros:  
+  - On Fedora/Nobara:  
     ```bash
     sudo dnf install zenity
     ```
-    or  
+    Debian based  
     ```bash
     sudo apt install zenity
     ```
