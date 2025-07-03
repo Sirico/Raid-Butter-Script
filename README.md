@@ -1,6 +1,6 @@
 # Btrfs Gaming Pool Generator
 
-I created this because I was tired of messing with **fstab** every time I distro-hopped. I run a single SATA drive for my OS and pool NVMe drives for storage and gaming — this script is built around that design.
+I created this because I was tired of messing with **fstab** every time I distro-hopped. I run a single SATA drive for my OS and pool NVMe drives for storage and gaming — this script is built around that design. It was mainly designed for Ublue os's so sets up flatpak permissions and mounts to /var/games by default this is because some games (like Forza Horizon 5)struggle if the steam directory is too long. 
 
 **Btrfs Gaming Pool Generator** is a user-friendly Bash + Zenity script for easily creating and managing a Btrfs-based gaming storage pool on Linux. It guides you through selecting unmounted drives, configuring mount options optimized for gaming, and automatically sets up dedicated folders for Steam, Lutris, and Heroic with proper Flatpak integration.
 
