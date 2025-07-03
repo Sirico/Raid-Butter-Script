@@ -82,6 +82,7 @@ Test write access
 Show a final Zenity success dialog
 
 What It Does
+
 ✅ Detects and filters unmounted disks
 
 ✅ Offers a checklist to select drives
