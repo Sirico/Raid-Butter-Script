@@ -107,15 +107,18 @@ Disclaimer
 Use at your own risk.
 
 Why Btrfs for Gaming?
-RAID0 for performance
 
-RAID1 metadata for resilience
+For me it is the best filesystem while not as fast as ext4 I feel its features and adoption for distros like Fedora,CachyOS and the Ublue projects offset this. 
+
+RAID0 for performance because RAID is not a backup
+
+RAID1 metadata for resilience because RAID is not a backup
 
 Modern CoW (copy-on-write) features
 
-Snapshot support
+Snapshot support because RAID is not a backup
 
-Flexible expansion
+Flexible expansion because we need 100GB per game now :D 
 
 Contributing
 Pull requests, improvements, and suggestions are welcome!
