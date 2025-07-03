@@ -124,12 +124,6 @@ Snapshot support
 
 Flexible expansion
 
-Example
-bash
-Copy
-Edit
-./btrfs-gaming-pool.sh
-Zenity will walk you through the rest.
 
 Contributing
 Pull requests, improvements, and suggestions welcome!
